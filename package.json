@@ -1,0 +1,13 @@
+{
+  "name": "crud-usuarios",
+  "version": "1.0.0",
+  "description": "CRUD de agenda de contatos",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "Lucas PACHECO",
+  "license": "ISC"
+}
+
