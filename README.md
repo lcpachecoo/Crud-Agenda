@@ -1,4 +1,4 @@
-# Agenda de Contatos - CRUD
+# CRUD - Agenda de Contatos 
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
