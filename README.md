@@ -1,4 +1,4 @@
-# 📒 Agenda de Contatos - CRUD
+# Agenda de Contatos - CRUD
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -7,7 +7,7 @@
 
 Um projeto simples, rápido e funcional de **CRUD de agenda de contatos**. Desenvolvido com Vanilla JavaScript, o sistema permite gerenciar contatos de forma intuitiva, salvando os dados diretamente no navegador do usuário.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Cadastrar Contato:** Adicione novos contatos informando Nome e Telefone.
 - **Listar Contatos:** Visualize todos os contatos salvos em uma tabela dinâmica.
@@ -15,13 +15,13 @@ Um projeto simples, rápido e funcional de **CRUD de agenda de contatos**. Desen
 - **Excluir Contato:** Remova contatos da sua agenda com confirmação de segurança.
 - **Persistência de Dados:** Todos os dados são salvos no `localStorage` do navegador, ou seja, você não perde os dados ao atualizar a página!
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5:** Estrutura da página.
 - **Bootstrap 5:** Estilização responsiva e componentes de interface (Cards, Botões, Alertas).
 - **JavaScript (ES Modules):** Lógica do CRUD, manipulação do DOM e uso do LocalStorage, arquitetado com separação de responsabilidades (Model, View, Controller, Service).
 
-## 🛠️ Como executar o projeto
+## Como executar o projeto
 
 Como o projeto utiliza a arquitetura de **ES Modules** do JavaScript (`type="module"`), você precisará rodá-lo através de um servidor local para que o navegador carregue os arquivos corretamente (evitando erros de CORS).
 
